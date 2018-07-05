@@ -83,7 +83,7 @@ module.exports = __webpack_require__(11);
 /***/ 11:
 /***/ (function(module, exports) {
 
-module.exports = require("/Users/qihong/lenovo/SsrPwaDemo/node_modules/next/dist/pages/_error.js");
+module.exports = require("/usr/share/nginx/html/node_modules/next/dist/pages/_error.js");
 
 /***/ })
 

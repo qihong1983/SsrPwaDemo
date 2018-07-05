@@ -1,4 +1,4 @@
-self.__precacheManifest = [{"url":"/_next/ac87526d-4e13-4685-820c-26b7d5ccc7c8/page/_app.js","revision":"ac87526d-4e13-4685-820c-26b7d5ccc7c8"},{"url":"/_next/ac87526d-4e13-4685-820c-26b7d5ccc7c8/page/_error.js","revision":"ac87526d-4e13-4685-820c-26b7d5ccc7c8"},{"url":"/_next/ac87526d-4e13-4685-820c-26b7d5ccc7c8/page/about.js","revision":"ac87526d-4e13-4685-820c-26b7d5ccc7c8"},{"url":"/_next/ac87526d-4e13-4685-820c-26b7d5ccc7c8/page/index.js","revision":"ac87526d-4e13-4685-820c-26b7d5ccc7c8"}]
+self.__precacheManifest = [{"url":"/_next/491b6d69-7870-4094-808b-b713075fbab4/page/_app.js","revision":"491b6d69-7870-4094-808b-b713075fbab4"},{"url":"/_next/491b6d69-7870-4094-808b-b713075fbab4/page/_error.js","revision":"491b6d69-7870-4094-808b-b713075fbab4"},{"url":"/_next/491b6d69-7870-4094-808b-b713075fbab4/page/about.js","revision":"491b6d69-7870-4094-808b-b713075fbab4"},{"url":"/_next/491b6d69-7870-4094-808b-b713075fbab4/page/index.js","revision":"491b6d69-7870-4094-808b-b713075fbab4"}]
 /**
  * Welcome to your Workbox-powered service worker!
  *
