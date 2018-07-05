@@ -7,8 +7,7 @@ var config = {
   exportPathMap: function() {
     return {
       '/': { page: '/' },
-      '/about': { page: '/about' },
-      '/index': { page: '/index' }
+      '/about': { page: '/about' }
     }
   }
 };
