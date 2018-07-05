@@ -6,19 +6,19 @@ import {
 	connect
 } from 'react-redux';
 
-import {
-	Layout,
-	Table,
-	Card,
-	Menu,
-	notification
-} from 'antd';
-const {
-	Header,
-	Footer,
-	Sider,
-	Content
-} = Layout;
+// import {
+// 	Layout,
+// 	Table,
+// 	Card,
+// 	Menu,
+// 	notification
+// } from 'antd';
+// const {
+// 	Header,
+// 	Footer,
+// 	Sider,
+// 	Content
+// } = Layout;
 
 // import {
 // 	bindActionCreators
