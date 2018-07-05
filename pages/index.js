@@ -1,24 +1,24 @@
 import React from 'react';
 import withRedux from 'next-redux-wrapper';
-// import 'isomorphic-unfetch';
+import 'isomorphic-unfetch';
 
-// import {
-// 	connect
-// } from 'react-redux';
+import {
+	connect
+} from 'react-redux';
 
-// import {
-// 	Layout,
-// 	Table,
-// 	Card,
-// 	Menu,
-// 	notification
-// } from 'antd';
-// const {
-// 	Header,
-// 	Footer,
-// 	Sider,
-// 	Content
-// } = Layout;
+import {
+	Layout,
+	Table,
+	Card,
+	Menu,
+	notification
+} from 'antd';
+const {
+	Header,
+	Footer,
+	Sider,
+	Content
+} = Layout;
 
 // import {
 // 	bindActionCreators
