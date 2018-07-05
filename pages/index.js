@@ -6,7 +6,7 @@ import {
 	connect
 } from 'react-redux';
 
-import {Layout} from 'antd';
+import {Menu} from 'antd';
 
 // const {
 // 	Header,
