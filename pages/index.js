@@ -3,26 +3,26 @@ import withRedux from 'next-redux-wrapper';
 import 'isomorphic-unfetch';
 
 
-import {
-	connect
-} from 'react-redux';
+// import {
+// 	connect
+// } from 'react-redux';
 
 
-import {
-	Layout,
-	Table,
-	Card,
-	Menu,
-	notification
-} from 'antd';
+// import {
+// 	Layout,
+// 	Table,
+// 	Card,
+// 	Menu,
+// 	notification
+// } from 'antd';
 
 
-const {
-	Header,
-	Footer,
-	Sider,
-	Content
-} = Layout;
+// const {
+// 	Header,
+// 	Footer,
+// 	Sider,
+// 	Content
+// } = Layout;
 
 
 // class Index extends React.Component {
