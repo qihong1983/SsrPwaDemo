@@ -6,13 +6,13 @@ import {
 	connect
 } from 'react-redux';
 
-// import {
-// 	Layout,
-// 	Table,
-// 	Card,
-// 	Menu,
-// 	notification
-// } from 'antd';
+import {
+	Layout,
+	Table,
+	Card,
+	Menu,
+	notification
+} from 'antd';
 // const {
 // 	Header,
 // 	Footer,
