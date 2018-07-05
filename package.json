@@ -22,7 +22,7 @@
     "redux-thunk": "~2.2.0"
   },
   "devDependencies": {
-    "antd": "~3.2.3",
+    "antd": "~3.6.5",
     "cookie-parser": "~1.4.3",
     "css-loader": "~0.28.10",
     "glamor": "~2.20.40",
