@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 // import withRedux from 'next-redux-wrapper';
 // import 'isomorphic-unfetch';
 
