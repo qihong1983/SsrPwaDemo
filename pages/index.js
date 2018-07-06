@@ -1,10 +1,10 @@
 import React from 'react';
-import withRedux from 'next-redux-wrapper';
-import 'isomorphic-unfetch';
+// import withRedux from 'next-redux-wrapper';
+// import 'isomorphic-unfetch';
 
-import {
-	connect
-} from 'react-redux';
+// import {
+// 	connect
+// } from 'react-redux';
 
 import { Card } from 'antd';
 
